@@ -10,6 +10,33 @@
     <div class="item-logos">
       <img class="logo" alt="transmart logo" src="../assets/google-search-ads-360-seeklogo.com.svg">
     </div>
+    <div class="item-logos">
+      <img class="logo" alt="transmart logo" src="../assets/transmart-carrefour-seeklogo.com-5.svg">
+    </div>
+    <div class="item-logos">
+      <img class="logo" alt="transmart logo" src="../assets/auto2000.png">
+    </div>
+    <div class="item-logos">
+      <img class="logo" alt="transmart logo" src="../assets/google-search-ads-360-seeklogo.com.svg">
+    </div>
+    <div class="item-logos">
+      <img class="logo" alt="transmart logo" src="../assets/transmart-carrefour-seeklogo.com-5.svg">
+    </div>
+    <div class="item-logos">
+      <img class="logo" alt="transmart logo" src="../assets/auto2000.png">
+    </div>
+    <div class="item-logos">
+      <img class="logo" alt="transmart logo" src="../assets/google-search-ads-360-seeklogo.com.svg">
+    </div>
+    <div class="item-logos">
+      <img class="logo" alt="transmart logo" src="../assets/transmart-carrefour-seeklogo.com-5.svg">
+    </div>
+    <div class="item-logos">
+      <img class="logo" alt="transmart logo" src="../assets/auto2000.png">
+    </div>
+    <div class="item-logos">
+      <img class="logo" alt="transmart logo" src="../assets/google-search-ads-360-seeklogo.com.svg">
+    </div>
   </div>
 </template>
 
@@ -22,19 +49,20 @@ export default {
 
 <style scoped>
 .title-header{
-  margin-bottom: 30px; 
+  margin-bottom: 30px;
+  text-align: left; 
 }
   .logos-wrapper{
     width: 70%;
     overflow: hidden;
     margin: auto;
-    /* background: red; */
+    /* background: blue; */
   }
 
   .item-logos{
     float: left;
-    margin-right: 20px;
-    margin-top: 20px;
+    margin-right: 70px;
+    margin-top: 70px;
     width: 150px;
     height: 150px;
     /* background: red; */
